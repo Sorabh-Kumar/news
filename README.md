@@ -1,9 +1,7 @@
-# News-Website
 
 #Output
 
-
-https://shatrughan-alt.github.io/News-Website/
+https://sorabh-kumar.github.io/news/
 
 
 On clicking this link you can see the website. 
