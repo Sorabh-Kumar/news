@@ -12,7 +12,7 @@ On clicking this link you can see the website.
 This is the front logo of this news website which terminates within few seconds.
 
 
-![image](https://github.com/Shatrughan-alt/News-Website/assets/84929529/c34cd1d3-16d8-44ff-a9b9-3d541da0fdd0)
+![image]([https://github.com/Shatrughan-alt/News-Website/assets/84929529/c34cd1d3-16d8-44ff-a9b9-3d541da0fdd0])
 
 
 #
